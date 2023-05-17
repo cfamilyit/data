@@ -1,0 +1,5 @@
+{name: Sreenivas, age: 41, location: {state: Telangana, county: India}, friends: []}
+{name: Swathi, age: 34, location: {state: Telangana, county: India}, friends: [{name: Badri, age: 35}]}
+{name: Pavan, age: 52, location: {state: AP}, friends: [{name: Akkem}, {name: Badri, age: 55}]}
+{name: Vasu, age: 31, location: {state: AP, county: India}}
+{name: Meena, age: 36, friends: [{name: Sreenivas, age: 41}]}
